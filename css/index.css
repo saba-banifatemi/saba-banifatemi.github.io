@@ -2,16 +2,29 @@
     .navbar ul li{
         border-top: 1px solid rgba(15,10,10,0.1);
     }
+    .navbar .container{
+        max-width: 100%;
+    }
+
+    .saba{
+        font-size: 70px;
+    }
+    
 }
 
 @media all and (min-width:576px) and (max-width:767px){
     .navbar .container{
         max-width: 100%;
     }
-
+  
     .navbar ul li{
         border-top: 1px solid rgba(15,10,10,0.1);
     }
+
+    .saba{
+        font-size: 50px;
+    }
+    
 }
 
 @media all and (min-width:768px) and (max-width:991px){
@@ -23,6 +36,10 @@
         border-top: 1px solid rgba(15,10,10,0.1);
     }
 
+    .saba{
+        font-size: 70px;
+    }
+    
 }
  
 @media all and (min-width:992px) and (max-width:1199px){
@@ -40,6 +57,10 @@
         background-color: #dc965a;
         z-index: -1;
     }
+    .saba{
+        font-size: 70px;
+    }
+    
 } 
 
 @media all and (min-width:1200px) and (max-width:1399px){
@@ -58,6 +79,9 @@
         background-color: #dc965a;
         z-index: -1;
     }
+    .saba{
+        font-size: 70px;
+    }    
 }
 
 @media all and (min-width:1400px){
@@ -75,6 +99,9 @@
         background-color: #dc965a;
         z-index: -1;
     }
+    .saba{
+        font-size: 70px;
+    }    
 }
 
 .bg-section{
@@ -141,10 +168,6 @@
     justify-content: center !important;
     align-items: center !important;
     box-sizing: border-box;
-}
-
-.saba{
-    font-size: 70px;
 }
 
 .btn-1 {
