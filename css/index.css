@@ -8,8 +8,7 @@
 
     .saba{
         font-size: 45px;
-    }
-    
+    }  
 }
 
 @media all and (min-width:576px) and (max-width:767px){
@@ -23,8 +22,7 @@
 
     .saba{
         font-size: 45px;
-    }
-    
+    }   
 }
 
 @media all and (min-width:768px) and (max-width:991px){
@@ -38,8 +36,7 @@
 
     .saba{
         font-size: 70px;
-    }
-    
+    }  
 }
  
 @media all and (min-width:992px) and (max-width:1199px){
@@ -133,7 +130,6 @@
     color: #d58138 !important;
 }
 
-
 .navbar a:active{
     color: #d58138 !important;
 }
@@ -161,7 +157,7 @@
 }
 
 .home2{
-    min-height: 100vh; 
+    min-height: 90vh; 
     padding-top: 150px;
     padding-bottom:90px;
     text-align: center !important;
